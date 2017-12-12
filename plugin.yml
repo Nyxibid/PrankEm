@@ -1,0 +1,10 @@
+name: PrankEm2
+main: com.abstractspectrumdev.prankem2.PrankEm
+version: 2.0
+description: A feature packed updated version of Prankster and many more fun and evil pranks!
+
+commands:
+  fakeop:
+    description: "FakeOP"
+  fakedeop:
+    description: "FakeDeOP"

@@ -1,0 +1,13 @@
+options:
+  prefix: '&6PrankEm2 &e>'
+  prank-success: '&aSuccessfully completed prank on %player%!'
+
+errors:
+  permission-error: '&cYou do not have permission to perform this command!'
+  offline-player: '&cOops! That player isn''t online or doesn''t exist!'
+  specify-player: '&cPlease specify a player!'
+
+pranks:
+  fake:
+    deop: '&eYou are no longer op!'
+    op: '&7&o[Server: Opped %player%]'
